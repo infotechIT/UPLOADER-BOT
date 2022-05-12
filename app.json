@@ -1,10 +1,10 @@
 {
   "name": "Uploader X Bot",
   "description": "Telegram Bot to Upload URLs to Telegram as File and Video.",
-  "keywords": [ "URL UPLOADER"],
-  "success_url": "https://t.me/Uploader_X_bot",
-  "website": "https://github.com/Clinton-Abraham",
-  "repository": "https://github.com/Clinton-Abraham/UPLOADER-BOT",
+  "keywords": [ "TorrentSearchBot"],
+  "success_url": "https://t.me/TorrentxSearch_bot",
+  "website": "https://github.com/infotechIT",
+  "repository": "https://github.com/infotechIT/UPLOADER-BOT",
 
   "env": {
     "WEBHOOK": {"description": "Setting this to ANYTHING will enable webhooks when in env mode",
