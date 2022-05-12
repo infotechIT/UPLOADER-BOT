@@ -1,6 +1,6 @@
-#### [UPLOADER-BOT](https://t.me/uploader_x_bot)
+#### [Torrent Search Bot](https://t.me/@TorrentxSearch_bot)
 
-[![Size](https://img.shields.io/github/repo-size/Clinton-Abraham/UPLOADER-BOT?style=flat-square&color=green)](https://github.com/Clinton-Abraham/UPLOADER-BOT)
+[![Size](https://img.shields.io/github/repo-size/infotechIT/UPLOADER-BOT?style=flat-square&color=green)](https://github.com/infotechIT/UPLOADER-BOT)
 
 ---
 
@@ -32,7 +32,7 @@ heroku/python
 ⚠️ AFTER FORK EDIT DEPLOY BUTTON REPLACE WITH YOUR REPO LINK ⚙️
 ```
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/Clinton-Abraham/UPLOADER-BOT/issues/14#issuecomment-1021253536)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/infotechIT/UPLOADER-BOT/issues/14#issuecomment-1021253536)
 
 
 ## 🍃 How To Get Mongodb URI - [ Watch Video ](https://youtu.be/YIYSby2PcfU)
@@ -63,7 +63,7 @@ heroku/python
 
 * Rᴇɴᴀᴍᴇ x ʙᴏᴛ  -  [ ꜱᴛᴀʀᴛ ](https://t.me/rename_x_bot)
 
-* Tᴏʀʀᴇɴᴛ x ʙᴏᴛ  -  [ ꜱᴛᴀʀᴛ ](https://t.me/torrent_x_bot)
+* Torrent Search Bot-  [ ꜱᴛᴀʀᴛ ](https://t.me/TorrentxSearch_bot)
 
 * Uᴘʟᴏᴀᴅᴇʀ x ʙᴏᴛ  -  [ ꜱᴛᴀʀᴛ ](https://t.me/uploader_x_bot)
 
